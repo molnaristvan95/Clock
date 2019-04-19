@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+  width:100%;
+  box-sizing:border-box;
+}
+#clock {
+  text-align:center;
+  position:absolute;
+  top:50%;
+  margin-top:-34px;
+  left:25%;
+  margin-lef:-45px;
+  width:50%;
+  backgroun:yellow;
+  font-family:'Indie Flower',cursive,'camel case';
+  font-size:90px;
+  color:#090;
+}
